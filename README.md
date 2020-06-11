@@ -8,7 +8,7 @@ A collection of room layout estimation papers (*a.k.a.* wireframe parsing).
 - [Methods](#1-Methods)
 - [Datasets](#2-Datasets)
 
-# 1. Panoramic Images
+# 1. Methods
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
@@ -18,8 +18,8 @@ A collection of room layout estimation papers (*a.k.a.* wireframe parsing).
 | HorizonNet | [HorizonNet: Learning Room Layout With 1D Representation and Pano Stretch Data Augmentation](https://arxiv.org/abs/1901.03861) | CVPR 2019 | [[Project](https://sunset1995.github.io/HorizonNet/)] [[Code](https://github.com/sunset1995/HorizonNet)] |
 | LayoutNet | [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zou_LayoutNet_Reconstructing_the_CVPR_2018_paper.pdf) | CVPR 2018 | [[Code](https://github.com/zouchuhang/LayoutNet)] |
 |  | [Layouts From Panoramic Images With Geometry and Deep Learning](https://arxiv.org/abs/1703.06241) | IROS 2018 | [[Code](https://github.com/GitBoSun/roomnet)] |
+| Pano2CAD | [Pano2CAD: Room Layout From A Single Panorama Image](https://arxiv.org/abs/1609.09270) | CVPR 2018 | |
 | RoomNet | [RoomNet: End-to-End Room Layout Estimation](https://arxiv.org/abs/1703.06241) | CVPR 2017 | [[Code](https://github.com/GitBoSun/roomnet)] |
-| RoomNet | [RoomNet: End-to-End Room Layout Estimation](https://arxiv.org/abs/1609.09270) | CVPR 2017 | [[Code](https://github.com/GitBoSun/roomnet)] |
 |  | [Efficient 3D Room Shape Recovery From a Single Panorama](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Efficient_3D_Room_CVPR_2016_paper.pdf) | CVPR 2016 | [[Project](http://cgcad.thss.tsinghua.edu.cn/yanghao/3droom/)] [[Code](https://github.com/YANG-H/Panoramix)] |
 | PanoContext | [Panocontext: A whole-room 3d context model for panoramic scene understanding](http://panocontext.cs.princeton.edu/paper.pdf) | ECCV 2014 | [[Project](http://panocontext.cs.princeton.edu/)] |
 
