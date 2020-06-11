@@ -1,7 +1,7 @@
 [<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Room Layout Estimation Papers
 ===
 
-A collection of room layout estimation papers (*a.k.a.* wireframe parsing).
+A collection of room layout estimation papers.
 
 # Outline
 
