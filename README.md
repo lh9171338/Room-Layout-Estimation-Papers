@@ -12,7 +12,7 @@ A collection of room layout estimation papers.
 
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
-| LayoutNet v2 | [3D Manhattan Room Layout Reconstruction from a Single 360 Image](https://arxiv.org/abs/1910.04099) | XXX 2020 | [[Code](https://github.com/zouchuhang/LayoutNetv2)] |
+| LayoutNet v2 | [3D Manhattan Room Layout Reconstruction from a Single 360 Image](https://arxiv.org/abs/1910.04099) | IJCV 2021 | [[Code](https://github.com/zouchuhang/LayoutNetv2)] |
 | CFL | [CFL: End-to-End Layout Recovery from 360 Images](https://arxiv.org/abs/1903.08094) | CVPR 2019 | [[Project](https://cfernandezlab.github.io/CFL/)] [[Code](https://github.com/cfernandezlab/CFL)] |
 | DuLa-Net | [DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama](https://arxiv.org/abs/1811.11977) | CVPR 2019 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/SunDaDenny/DuLa-Net)] |
 | HorizonNet | [HorizonNet: Learning Room Layout With 1D Representation and Pano Stretch Data Augmentation](https://arxiv.org/abs/1901.03861) | CVPR 2019 | [[Project](https://sunset1995.github.io/HorizonNet/)] [[Code](https://github.com/sunset1995/HorizonNet)] |
