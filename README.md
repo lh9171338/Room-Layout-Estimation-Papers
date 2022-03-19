@@ -13,7 +13,7 @@ A collection of room layout estimation papers.
 | Name | Paper | Source | Code/Project |
 | --- | --- | --- | --- |
 | LayoutNet v2 | [Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods](https://arxiv.org/abs/1910.04099) | IJCV 2021 | [[Code](https://github.com/zouchuhang/LayoutNetv2)] |
-| CFL | [CFL: End-to-End Layout Recovery from 360 Images](https://arxiv.org/abs/1903.08094) | CVPR 2019 | [[Project](https://cfernandezlab.github.io/CFL/)] [[Code](https://github.com/cfernandezlab/CFL)] |
+| CFL | [Corners for Layout: End-to-End Layout Recovery From 360 Images](https://ieeexplore.ieee.org/document/8961969) | RAL 2020 | [[Project](https://cfernandezlab.github.io/CFL/)] [[Code](https://github.com/cfernandezlab/CFL)] |
 | DuLa-Net | [DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama](https://arxiv.org/abs/1811.11977) | CVPR 2019 | [[Project](https://cgv.cs.nthu.edu.tw/projects/dulanet)] [[Code](https://github.com/SunDaDenny/DuLa-Net)] |
 | HorizonNet | [HorizonNet: Learning Room Layout With 1D Representation and Pano Stretch Data Augmentation](https://arxiv.org/abs/1901.03861) | CVPR 2019 | [[Project](https://sunset1995.github.io/HorizonNet/)] [[Code](https://github.com/sunset1995/HorizonNet)] |
 | LayoutNet | [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zou_LayoutNet_Reconstructing_the_CVPR_2018_paper.pdf) | CVPR 2018 | [[Code](https://github.com/zouchuhang/LayoutNet)] |
